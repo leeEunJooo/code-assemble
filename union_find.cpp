@@ -1,3 +1,9 @@
+
+
+/*
+    설명 잘돼있는 사이트
+    https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
