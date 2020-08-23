@@ -6,7 +6,7 @@ int main(){
 
 	// priority_queue
 	priority_queue< int, vector<int>, greater<int> > pq;
-	// or priority_queue<int> pq;
+	// or priority_queue<int> pq;에 넣을때 -를 붙여서 넣어도 됨
 
 
 	// push(element)
